@@ -1,6 +1,6 @@
 "use client";
 import { Suspense } from "react";
-import PaperDetailContent from "./PaperDetailContent";
+import PaperDetailContent from "../../../components/PaperDetailContent";
 import "./PaperDetail.css";
 
 export default function PaperDetailPage() {
