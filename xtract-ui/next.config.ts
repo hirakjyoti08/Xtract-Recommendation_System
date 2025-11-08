@@ -1,7 +1,14 @@
-import type { NextConfig } from "next";
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'standalone',
+  trailingSlash: true,
+  images: {
+    unoptimized: true
+  },
+  // Disable static generation for dynamic routes
+  experimental: {
+    serverComponentsExternalPackages: [],
+  },
+}
 
-const nextConfig: NextConfig = {
-  /* config options here */
-};
-
-export default nextConfig;
+export default nextConfig

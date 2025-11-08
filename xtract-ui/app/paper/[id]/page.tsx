@@ -1,7 +1,10 @@
-"use client";
 import { Suspense } from "react";
-import PaperDetailContent from "../../../components/PaperDetailContent";
+import PaperDetailContent from "./PaperDetailContent";
 import "./PaperDetail.css";
+
+// Force dynamic rendering - disable static generation
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 export default function PaperDetailPage() {
   return (

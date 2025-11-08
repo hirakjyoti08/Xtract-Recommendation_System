@@ -2,7 +2,7 @@
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
-import "../app/search/SearchPage.css";
+import "./SearchPage.css";
 
 interface SearchResult {
   id: string;

@@ -12,5 +12,9 @@
       "dest": "/xtract-ui/$1"
     }
   ],
-  "outputDirectory": "xtract-ui/.next"
+  "functions": {
+    "app/paper/[id]/page.tsx": {
+      "maxDuration": 30
+    }
+  }
 }
