@@ -48,6 +48,13 @@ Xtract-Recommendation_System
 └── README.md                    # Project documentation
 
 ```
+Project Preview
+---------------
+
+<img width="1920" height="1080" alt="Xtract Recommendation System Preview" src="https://github.com/user-attachments/assets/97825002-e521-4900-b45a-017466250da9" />
+
+*Figure: Screenshot of the Xtract Recommendation System interface.*
+
 ---
 
 ## Requirements
