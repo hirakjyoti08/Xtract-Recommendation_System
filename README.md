@@ -53,7 +53,11 @@ Project Preview
 
 <img width="1920" height="1080" alt="Xtract Recommendation System Preview" src="https://github.com/user-attachments/assets/97825002-e521-4900-b45a-017466250da9" />
 
-*Figure: Screenshot of the Xtract Recommendation System interface.*
+*Figure 1: Screenshot of the Xtract Recommendation System interface.*
+
+<img width="1920" height="1080" alt="Xtract Recommendation System Search" src="https://github.com/user-attachments/assets/7fff22f3-3fc1-4d0b-b304-d5f4328398e8" />
+
+*Figure 2: Screenshot of the Xtract Recommendation System Search Result.*
 
 ---
 
